@@ -1,0 +1,9 @@
+Both scripts include a detailed description of their functionality,
+extensive commentary, and a helper guide, that describes which parameters the script accepts,
+both obligatory and optional ones, and how they can be defined. 
+
+The guide can be accessed through the terminal using the -h parameter
+after the script's name. 
+
+For example, type ./create_p2sh_address.py -h
+
